@@ -19,6 +19,7 @@ class SecondActivity : AppCompatActivity() {
             finish()
         }
     }
+
     override fun onStart() {
         super.onStart()
         Log.info("onStart")

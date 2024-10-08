@@ -6,6 +6,7 @@ import android.os.Bundle
 import id.ac.polbeng.nadiya.intentexample.databinding.ActivityMainBinding
 import java.util.logging.Logger
 
+
 class MainActivity : AppCompatActivity() {
     private val Log = Logger.getLogger(MainActivity::class.java.name)
     private lateinit var binding: ActivityMainBinding
